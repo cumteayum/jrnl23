@@ -4,3 +4,4 @@
 3. 04 dec, A(P1-64, total-39, total-103)
 3. 05 dec, (PYPMOCK) A(P1-111, total-87, total-198) [JEE(A) 2019]
 4. 05 dec, M(67, math section only)
+24. 24 dec, (PYPMOCK) A(P1-106, P2-87, total-193)
